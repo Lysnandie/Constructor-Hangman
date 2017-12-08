@@ -1,0 +1,23 @@
+{
+  "name": "constructor-hangman",
+  "version": "0.0.1",
+  "description": "hangman package",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lysnandie/Constructor-Hangman.git"
+  },
+  "author": "lysnandie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lysnandie/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/Lysnandie/Constructor-Hangman#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "prompt": "^1.0.0"
+  }
+}
